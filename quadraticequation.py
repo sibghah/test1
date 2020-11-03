@@ -9,6 +9,7 @@ c = 6
 
 # calculate the discriminant
 d = (b**2) - (4*a*c)
+#i was here
 
 # find two solutions
 sol1 = (-b-cmath.sqrt(d))/(2*a)
